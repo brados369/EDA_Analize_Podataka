@@ -3,7 +3,7 @@
 Ova analiza istražuje podatke o generisanom otpadu u Srbiji za period 2010-2023, koristeći **Exploratornu Analizu Podataka (EDA)**.
 
 ## Izvor podataka
-- Dataset preuzet sa [data.gov.rs](https://data.gov.rs/sr/datasets/generisan-otpad-1/#community-resources))
+- Dataset preuzet sa ([data.gov.rs](https://data.gov.rs/sr/datasets/generisan-otpad-1/#community-resources))
 - Podaci obuhvataju godišnje izveštaje o otpadu
 
 ## Korišćene metode
