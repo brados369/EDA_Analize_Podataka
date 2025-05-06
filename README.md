@@ -14,6 +14,10 @@ Ova analiza istražuje podatke o generisanom otpadu u Srbiji za period 2010-2023
 ## Sadržaj fajlova
 - `EDA_generisani_otpad.ipynb` → Jupyter Notebook sa svim koracima analize
 - `Grafici/` → Folder sa generisanim grafikonima
+- `EDA_generisani_otpad.pdf` → Detaljna analiza u PDF formatu  
+
+## Preuzmite PDF analizu:  
+[📄 EDA Analiza Generisanog Otpada (PDF)](https://github.com/brados369/EDA_Analize_Podataka/blob/main/EDA_generisani_otpad.pdf)
 
 ## Korišćenje
 Možete preuzeti notebook, pokrenuti ga i prilagoditi analizu prema potrebama.
